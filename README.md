@@ -2,6 +2,7 @@
 
 ## Overview
 In this project, we developed a **hybrid deep learning model** for **transliteration language identification** using **BERT** and **Bidirectional Gated Recurrent Unit (BiGRU)**. Our model effectively identifies languages in **Bangla, Hindi, Tamil, and English** by leveraging a newly curated transliteration dataset. The **BERT-BiGRU** model outperforms traditional approaches with high accuracy and robust evaluation metrics.
+You can find the full research paper on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10725039).
 
 ## Key Features
 - **Transliteration Dataset Creation**: Collected and preprocessed language data from 12 different datasets.
