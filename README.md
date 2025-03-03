@@ -17,7 +17,7 @@ You can find the full research paper on [IEEE Xplore](https://ieeexplore.ieee.or
  ![Layer Integrated Gradients2](LIG2.png)
 
 ## Dataset
-Our dataset consists of **4 languages (Bangla, Hindi, Tamil, and English)** extracted from **12 distinct sources**. Preprocessing includes **tokenization, normalization, and transliteration mapping**.
+Our [dataset](https://data.mendeley.com/datasets/38y7g2fcny/1) consists of **4 languages (Bangla, Hindi, Tamil, and English)** extracted from **12 distinct sources**. Preprocessing includes **tokenization, normalization, and transliteration mapping**.
 
 ## Model Architecture
 The model comprises:
