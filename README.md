@@ -12,6 +12,8 @@ In this project, we developed a **hybrid deep learning model** for **translitera
   - **Specificity**: 99.15%
   - **Matthews Correlation Coefficient (MCC)**: 96.74%
 - **Explainability with Layer Integrated Gradients**: Interprets model decisions by highlighting influential linguistic features. Layer Integrated Gradients is an **Explainable AI (XAI) method** that helps understand which input features contribute the most to a model’s predictions by computing attributions across multiple steps from a baseline input to the actual input.
+![Layer Integrated Gradients1](LIG1.png)
+![Layer Integrated Gradients2](LIG2.png)
 
 ## Dataset
 Our dataset consists of **4 languages (Bangla, Hindi, Tamil, and English)** extracted from **12 distinct sources**. Preprocessing includes **tokenization, normalization, and transliteration mapping**.
@@ -24,6 +26,7 @@ The model comprises:
 
 ## Results
 The model achieves state-of-the-art performance, surpassing baseline models in transliteration language identification. The use of **Layer Integrated Gradients** further enhances interpretability by revealing important linguistic cues used in classification.
+![Confusion Matrix](confusion_matrix_bert.png)
 
 ## Citation
 If you use this work, please cite:
