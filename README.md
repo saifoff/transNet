@@ -25,10 +25,6 @@ The model comprises:
 ## Results
 The model achieves state-of-the-art performance, surpassing baseline models in transliteration language identification. The use of **Layer Integrated Gradients** further enhances interpretability by revealing important linguistic cues used in classification.
 
-
-## Contributors
-- **Saiful Islam** ([@saifoff]([https://github.com/yourgithub](https://github.com/saifoff)))
-
 ## Citation
 If you use this work, please cite:
 ```
